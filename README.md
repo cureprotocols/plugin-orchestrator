@@ -1,10 +1,11 @@
 # 🧠 Plugin Orchestrator · Built in Rust · Mission-Aligned Infrastructure
 
-![Build](https://img.shields.io/badge/build-passing-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-blue)
-![Made with Rust](https://img.shields.io/badge/made%20with-rust-orange)
-![Dockerized](https://img.shields.io/badge/docker-ready-blue)
-![Secure](https://img.shields.io/badge/security-scoped%20execution-critical)
+![build](https://img.shields.io/badge/build-passing-brightgreen)
+![license](https://img.shields.io/badge/license-MIT-blue)
+![made with rust](https://img.shields.io/badge/made%20with-rust-orange)
+![docker](https://img.shields.io/badge/docker-ready-blue)
+![security](https://img.shields.io/badge/security-scoped%20execution-critical)
+[![Docker Pulls](https://img.shields.io/docker/pulls/cureprotocols/plugin-orchestrator.svg)](https://hub.docker.com/r/cureprotocols/plugin-orchestrator)
 
 ---
 
